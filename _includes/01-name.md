@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Rushda Parveen, btech
+## 2nd year ECE student 
+which *college* are you studying?
